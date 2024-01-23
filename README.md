@@ -1,3 +1,3 @@
 # MyFirstRepo
-<h3>This is my first REPO and I'm pretty excited</h3>
+<i>This is my first REPO and I'm pretty excited</i>
 Author- Neel Phadke
